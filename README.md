@@ -1,2 +1,2 @@
-# Marikina-Emergency
-The Emergency Response App allows users to create a profile, contact emergency services such as BFP and 161 Rescue, and view their report history. All submitted reports are recorded automatically. Admin users are responsible for updating the status of reports to ensure accurate and reliable emergency response tracking.
+# RoNy's Store ( Point of System )
+A system with a selling module that includes accurate computations, clear product categories, and automatic data output. It has a maintenance module with expiration tracking and buttons to add or delete records. The sales report automatically calculates total payments based on the stored transaction data. This helps ensure operations and financial monitoring well
