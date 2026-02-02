@@ -163,4 +163,95 @@ This is the **Tutorial Page**, designed to guide users on how to properly use th
 
 ---
 
-📌 *Responder-side features will be documented next as requested.*
+🛠️ Marikina Emergency Application (Responder / Admin Side)
+
+This section describes the Responder/Admin interface of the Marikina Emergency Application. These features are designed for authorized personnel such as dispatchers, responders, and administrators to efficiently manage emergency reports and respond in real time.
+
+<img width="800" height="1340" alt="Home ( Admin )" src="https://github.com/user-attachments/assets/20e0f33c-5a1a-4dbf-8ed4-b287e1e03a8d" />
+
+
+Description:
+This is the Admin Home Page, displayed after a successful admin login. It serves as the main landing page for responders and administrators.
+
+Features:
+
+Welcome message for the Admin/Responder
+
+Clean and focused layout
+
+Quick access to the navigation menu
+
+Reinforces readiness and responsibility during emergency situations
+
+<img width="800" height="1340" alt="Navi ( Admin )" src="https://github.com/user-attachments/assets/d16e0293-d840-4d11-b642-06fe3735bfc6" />
+
+
+Description:
+This is the Admin Navigation Menu used by responders and administrators.
+
+Features:
+
+Dashboard (main and only navigation option for admins)
+
+Logout option
+
+Simple navigation to avoid confusion during critical situations
+
+<img width="800" height="1340" alt="History ( Admin )" src="https://github.com/user-attachments/assets/0aea719b-d171-46a3-991c-dafe3e9cb26c" />
+
+Description:
+This is the Dispatcher / Report History View, where all incoming emergency requests from users are displayed.
+
+Features:
+
+Search bar for quick report lookup
+
+Date filter for organized viewing
+
+Displays report details such as:
+
+Full Name of the requester
+
+Location (with View Map option)
+
+Category (161 Rescue or BFP)
+
+Current Status (Pending, On the Way, Resolved)
+
+Ability to update report status in real time
+
+Helps dispatchers prioritize and manage multiple emergency cases
+
+<img width="800" height="1340" alt="Tracking Map ( admin )" src="https://github.com/user-attachments/assets/a0fd244a-c053-4a89-9c3c-15f9aadb52d5" />
+
+
+Description:
+This is the Live Tracking Map View, showing the real-time location of both the requester and the responder.
+
+Features:
+
+Displays the requester’s exact location
+
+Shows the responder’s current position
+
+Visual route guidance from responder to requester
+
+Estimated travel time and distance
+
+Ensures faster, accurate, and safer response
+
+❓ Why This System Is Important
+
+This system was created to protect lives during dangerous and critical situations. In times of disaster—such as fires, earthquakes, accidents, or medical emergencies—every second matters. Many people are unable to call for help quickly due to panic, injury, or lack of information.
+
+By providing a direct, location-based emergency reporting system, this application:
+
+Reduces response time
+
+Eliminates confusion about locations
+
+Improves coordination between responders and victims
+
+Helps authorities make faster and better decisions
+
+This project exists for people who are in danger and desperately need help. It ensures that no emergency request is ignored and that responders can reach victims as quickly and efficiently as possible. Ultimately, this system helps save lives, protect communities, and strengthen public safety.
